@@ -94,7 +94,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 <h1>Prueba</h1>
-                <h1>Prueba2</h1>
+                <h1>Prueba2 edit</h1>
                 <h1>Prueba3</h1>
                    
                 </div>
