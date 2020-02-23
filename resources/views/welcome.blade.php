@@ -94,7 +94,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
 
-                   <h1>Modificaciones del P3</h1>
+                   
                 </div>
             </div>
         </div>
