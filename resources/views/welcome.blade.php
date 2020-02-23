@@ -93,9 +93,7 @@
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <h1>Testing</h1>
-                    <h1>Testing 2</h1>
-                    <h1>Testing 3</h1>
+
                 </div>
             </div>
         </div>
